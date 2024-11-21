@@ -18,6 +18,7 @@ print(e["lname"])
 print (f["lname"])
 listOfPeople=[e,f]
 
+
 #smartPython
 g="Liana " + "Zats"
 print(g)
